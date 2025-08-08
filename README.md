@@ -9,7 +9,8 @@ This is a simple single-page personal portfolio website created using HTML, CSS,
 - Contact Form
 
 ## Live Preview
-[Click here to see Live]
+[Click here to see Live](https://dua0310.github.io/-task-portolio-task/)
+
 
 ## Author
 Dua Jamali
